@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;padding:0px;list-style:none;text-decoration:none;outline:none}
+body{font-family: 'Open Sans', sans-serif;font-size:12px;color:#f5b959;background:#fff}
+.clr{clear:both}
+input{font-family:'Open Sans', sans-serif}
+.bold{font-weight:600}
+.main{width:300px;margin:0 auto;background:#eee;padding:5px 10px;min-height:500px;position:relative}
+.main h2{font-size:25px;font-weight:600;padding-top:20px}
+.main h3{font-size:18px;font-weight:400;text-align:center}
+.searchBox{font-size:16px;font-weight:600;padding:5px;border:2px solid #c7c7c7;border-radius:5px;color:#666;width:95%;margin:20px auto 10px;}
+.btnWrap{background:#ffa41c;width:99%;margin:0 auto}
+.btnWrap span{padding:8px 8px  0 12px;display:inline-block;float:left;border-right:1px solid #fff}
+.searchBTn{background:#ffa41c;border:none;color:#fff;font-size:16px;font-weight:400;padding:5px;}
+
+.header{background:#192c3c;padding:8px 2%;position:absolute;top:0px;width:96%;left:0px}
+.header span{background:url(../images/navIcon.png) no-repeat left center;padding:5px 0 3px 25px;float:left}
+.header span a{color:#fff;font-size:16px;font-weight:600}
+.header h4{color:#fff;font-weight:600;float:left;font-size:24px;margin-left:30px}
+.product{padding-top:60px;margin-bottom:30px}
+.product img{display:inline-block;margin-right:8px;float:left}
+.detatails{float:left;margin-top:20px;color:#333;font-size:15px}
+.listitem ul{display:block}
+.listitem ul li{padding:4px;border:1px solid #c7c7c7;border-radius:3px;background:#fff;font-size:15px;color:#666}
+.listitem ul li input[type='radio']{margin-right:3px}
+.alignright{float:right}
+.yellowBTn{background:#ffa41c;border-radius:3px;border:2px solid #c7c7c7;color:#fff;text-align:center;width:100%;padding:6px 0;margin-top:10px;font-size:18px;font-weight:600}
+
